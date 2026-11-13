@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=190&section=header&text=VoidScripty&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=190&section=header&text=mrdotslarp&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A371F7&center=true&vCenter=true&width=500&lines=Bash+Scripting;Process+Optimization;Arch+Linux+User;Code+And+Programming" alt="Typing SVG" />
 </div>
@@ -33,22 +33,21 @@
 <h3 align="center">👾 GitHub Analytics</h3>
 
 <div align="center">
-<img src="https://img.shields.io/github/stars/VoidScripty?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
+<img src="https://img.shields.io/github/stars/mrdotslarp?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
 
 <br><br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VoidScripty&background=00000000&stroke=00000000&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdotslarp&background=00000000&stroke=00000000&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=voidscripty&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrdotslarp&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" width="48%" />
 </div>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VoidScripty&bg_color=00000000&color=cdd6f4&line=A371F7&point=A371F7&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdotslarp&bg_color=00000000&color=cdd6f4&line=A371F7&point=A371F7&area=true&hide_border=true" width="100%" />
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=120&section=footer" width="100%" />
 </div>
-```
