@@ -35,10 +35,6 @@
 <div align="center">
 <img src="https://img.shields.io/github/stars/VoidScripty?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
 
-<a href="mailto:emailstore300@gmail.com" target="blank">
-<img src="https://api.iconify.design/lucide:mail.svg?color=%23a371f7" width="28" height="28" alt="Email">
-</a>
-
 <br><br>
 
 <div align="center">
