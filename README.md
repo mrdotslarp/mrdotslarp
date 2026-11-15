@@ -40,13 +40,6 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdotslarp&background=00000000&stroke=00000000&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrdotslarp&bg_color=00000000&title_color=A371F7&text_color=cdd6f4&icon_color=A371F7&show_icons=true&count_private=true&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrdotslarp&bg_color=00000000&color=cdd6f4&line=A371F7&point=A371F7&area=true&hide_border=true" width="100%" />
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A371F7&height=120&section=footer" width="100%" />
