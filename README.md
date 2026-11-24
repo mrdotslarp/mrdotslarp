@@ -35,7 +35,7 @@
 <div align="center">
 <img src="https://img.shields.io/github/stars/mrdotslarp?style=for-the-badge&logo=github&color=A371F7&labelColor=1e1e2e" alt="Total Stars" />
 
-<br><br>
+<br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrdotslarp&background=00000000&stroke=00000000&ring=A371F7&fire=A371F7&currStreakNum=cdd6f4&currStreakLabel=A371F7&sideNums=cdd6f4&sideLabels=A371F7&dates=cdd6f4&hide_border=true" width="48%" />
