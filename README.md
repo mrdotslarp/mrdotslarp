@@ -13,8 +13,8 @@
 <p>
         🔮 <b>Focus:</b> Linux Systems & Bash Scripting & Shell Logic <br>
         🍇 <b>Objective:</b> Programming and Scripting Automation & Helping Others with Code-Driven Solutions<br>
-        🪻 <b>Mastering:</b><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=A371F7" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=A371F7" alt="Bash" /></a> <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=A371F7" alt="Arch" /></a> <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/Vim-1e1e2e?style=for-the-badge&logo=vim&logoColor=A371F7" alt="vim" /> </a>
-</p>
+        🪻 <b>Mastering:</b><a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=A371F7" alt="Bash" /></a>
+<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=A371F7" alt="Arch" /></a>
 
 <div align="center">
   <code><b>$ grep -i "philosophy" /dev/brain</b></code>
